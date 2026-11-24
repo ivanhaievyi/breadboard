@@ -4,3 +4,4 @@ A trainer-board for digital logic
 
 - [Contributing](/contributing.md)
 - [Architecture](./architecture.md)
+- [IC Schema](./ic-schema.md)
