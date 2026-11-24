@@ -1,5 +1,3 @@
-# Breadboard
-
 A trainer-board for digital logic 
 
 ## Links
